@@ -1,0 +1,75 @@
+{
+    "__class__": "ListaPersonal",
+    "personal": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "20-40728966-7",
+                "apellido": "Sanchez",
+                "nombre": "Claudio",
+                "sueldobasico": 40000.0,
+                "antiguedad": 5,
+                "carrera": "LCC",
+                "cargo": "Titular",
+                "catedra": "POO"
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "20-32868942-5",
+                "apellido": "Romero",
+                "nombre": "Juan",
+                "sueldobasico": 20000.0,
+                "antiguedad": 7,
+                "categoria": 20
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "20-18200321-6",
+                "apellido": "Argento",
+                "nombre": "Dario",
+                "sueldobasico": 200000.0,
+                "antiguedad": 20,
+                "areainv": "Informatica",
+                "tipoinv": "Experimental"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "21-20000000-6",
+                "apellido": "Mercado",
+                "nombre": "Romina",
+                "sueldobasico": 150000.0,
+                "antiguedad": 15,
+                "carrera": "LSI",
+                "cargo": "JTP",
+                "catedra": "POO",
+                "areainv": "Informatica",
+                "tipoinv": "Descriptiva",
+                "categoriaIncent": "III",
+                "importeExtra": 20000
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "21-20000000-6",
+                "apellido": "Mercado",
+                "nombre": "Sergio",
+                "sueldobasico": 150000.0,
+                "antiguedad": 15,
+                "carrera": "LSI",
+                "cargo": "JTP",
+                "catedra": "POO",
+                "areainv": "Informatica",
+                "tipoinv": "Descriptiva",
+                "categoriaIncent": "III",
+                "importeExtra": 20000
+            }
+        }
+    ]
+}
